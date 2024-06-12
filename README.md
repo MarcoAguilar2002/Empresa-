@@ -1,4 +1,4 @@
-# Empresa- [Nombre del Proyecto]
+# Empresa- 
 
 Este repositorio contiene el código fuente de Empresa
 
