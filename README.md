@@ -1,34 +1,6 @@
 # Empresa- [Nombre del Proyecto]
 
-Este repositorio contiene el código fuente de [descripción breve del proyecto].
-
-## Contenido
-
-- [Descripción](#descripción)
-- [Instalación](#instalación)
-- [Uso](#uso)
-- [Contribución](#contribución)
-- [Licencia](#licencia)
-
-## Descripción
-
-[Descripción detallada del proyecto y su propósito].
-
-## Instalación
-
-[Instrucciones sobre cómo instalar y configurar el proyecto].
-
-## Uso
-
-[Instrucciones sobre cómo usar el proyecto, incluyendo comandos importantes, configuración, etc.].
-
-## Contribución
-
-[Información sobre cómo contribuir al proyecto, incluyendo pautas de contribución, código de conducta, etc.].
-
-## Licencia
-
-[Información sobre la licencia del proyecto].
+Este repositorio contiene el código fuente de Empresa
 
 ## Script de la Base de Datos
 
